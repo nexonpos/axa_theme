@@ -2,7 +2,7 @@
 {
     'name': "Axa Backend Theme",
     'summary': "",
-    'author': 'Nabil Mohammed',
+    'author': 'Nexonpos',
     'category': 'hidden',
     'version': '1.0.0',
     'depends': ["web"],
